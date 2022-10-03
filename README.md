@@ -1,4 +1,8 @@
-Hey there, My name is Fuhad Hasan. I am a professional frontend developer based in :bangladesh: Bangladesh.
+## ABOUT ME
+
+Hey there, My name is Fuhad Hasan. I am a self taught professional frontend developer based in Bangladesh. I am learning frontend development since 2020. I love to write code and make something amazing with it, also I eager to learn new technologies everyday. Recently I just graduated from a small bootcamp, and I learned how to work with redux & RTK Query to mange state and call API etc.
+
+Currently I am learning Node Js, express, MongoDB and besides I am also building frontend projects to make myself more confident on frontend
 <!--
 **fuhad479/fuhad479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
