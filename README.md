@@ -26,7 +26,9 @@ Currently I am learning Node Js, express, MongoDB and besides I am also building
 <img src="https://img.shields.io/badge/VS CODE-0078d7?style=flat&logo=visualstudiocode&logoColor=white">  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fuhad479&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuhad479&langs_count=3&theme=radical" alt="Top languanges" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fuhad479&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+
 <!--
 **fuhad479/fuhad479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
