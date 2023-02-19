@@ -2,9 +2,11 @@
 
 ## ABOUT ME
 
-Hey there, My name is Fuhad Hasan. I am a self taught professional frontend developer based in Bangladesh. I am learning frontend development since 2020. I love to write code and make something amazing with it, also I eager to learn new technologies everyday. Recently I just graduated from a small bootcamp, and I learned how to work with redux & RTK Query to mange state and call API etc.
+As a junior frontend developer with a passion for creating engaging and user-friendly experiences, I am dedicated to leveraging my skills in HTML, CSS, and JavaScript to build dynamic and responsive web applications. I thrive in a collaborative environment and enjoy working with others to develop innovative solutions to complex problems.
 
-Currently I am learning Node Js, express, MongoDB and besides I am also building frontend projects to make myself more confident on frontend
+With a strong foundation in front-end technologies, I am eager to continue learning and exploring new tools and frameworks to enhance my skills and contribute to the success of my team. I am detail-oriented and committed to producing high-quality code that is both maintainable and scalable.
+
+Whether working on a solo project or collaborating with others, I approach each task with a positive attitude and a willingness to learn and grow. I am excited about the opportunity to join a team that values creativity, collaboration, and innovation, and am confident in my ability to make a positive contribution as a junior frontend developer.
 
 ## REACH ME AT
 
